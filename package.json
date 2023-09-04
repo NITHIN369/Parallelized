@@ -1,0 +1,14 @@
+{
+  "name": "preprocessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "preproc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nithin",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.7"
+  }
+}
